@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-## [lich-lam-viec-cua-lanh-dao-bo.pdf](lich-lam-viec-cua-lanh-dao-bo%20(1).pdf)
+## [lich-lam-viec-cua-lanh-dao-bo.pdf](lich-lam-viec-cua-lanh-dao-bo.pdf)
 
 This project is a starting point for a Flutter application.
 
